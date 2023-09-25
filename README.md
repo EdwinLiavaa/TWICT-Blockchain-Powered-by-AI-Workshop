@@ -16,11 +16,11 @@ I'm honored to facilitate this pioneering workshop and I'm excited to explore bl
 
 ## Flyer
 ---
-![](https://github.com/FidelChe/TWICT-Blockchain-Powered-by-AI-Workshop/files/flyer.jpg)
+![](https://github.com/FidelChe/TWICT-Blockchain-Powered-by-AI-Workshop/blob/main/files/flyer.jpg?raw=true)
 
 ## Presentation
 ---
-![](https://github.com/FidelChe/TWICT-Blockchain-Powered-by-AI-Workshop/files/Blockchain-AI-Powered-101.pdf)
+https://github.com/FidelChe/TWICT-Blockchain-Powered-by-AI-Workshop/blob/main/files/Blockchain-AI-Powered-101.pdf
 
 
 
